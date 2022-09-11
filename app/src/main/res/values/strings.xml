@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Álcool ou Gasolina</string>
+    <string name="proco_gasolina">Preço da Gasolina:</string>
+    <string name="proco_alcool">Preço do Álcool:</string>
+    <string name="btn_calcular">Calcular</string>
+    <string name="titulo_inicial">Saiba a melhor opção de abastecimento para seu carro:</string>
+    <string name="Resultado">RESULTADO</string>
+</resources>
